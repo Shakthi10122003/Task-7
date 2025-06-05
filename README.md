@@ -49,7 +49,7 @@ The project consists of a single HTML file containing:
 
 * **JavaScript**: `<script>` block containing the logic for fetching, parsing, and displaying data, along with error handling and event listeners.
 
-## Testing Error Handling ⚠
+## Testing Error Handling 
 
 To test the error handling functionality:
 
@@ -59,3 +59,10 @@ To test the error handling functionality:
 
 3.  Click the "Reload User Data" button on the page.
     You should see an error message indicating that the data could not be loaded. Re-enabling your internet connection and clicking "Reload User Data" will restore the display.
+
+## Results
+![image](https://github.com/user-attachments/assets/73d43e96-b0ab-47ca-9ec7-b149a282cfdd)
+![image](https://github.com/user-attachments/assets/c68c27a3-1a67-4fc5-b72d-659742f02fb7)
+
+
+
